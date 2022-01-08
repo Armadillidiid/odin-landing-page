@@ -1,1 +1,1 @@
-# odin-landing-page
+Made for The Odin Project's curriculum.
